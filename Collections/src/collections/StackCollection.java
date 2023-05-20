@@ -28,6 +28,10 @@ public class StackCollection {
     System.out.println("Pila: " + pila);
     System.out.println("Pila vacía: " + pila.isEmpty());
 
+    pila.pop(); // Elimina el ultimo elemento que entró
+    System.out.println("Está el 3?: " + pila.search(3));
+    System.out.println("Último agregado: " + pila.peek());
+
   }
 
 }
