@@ -7,7 +7,7 @@ public class Producto {
    private static int contadorProductos;
 
    private Producto(){
-      this.idProducto = ++ Producto.contadorProductos;
+      this.idProducto = ++Producto.contadorProductos;
    }
 
    public Producto(String nombre, double precio){
