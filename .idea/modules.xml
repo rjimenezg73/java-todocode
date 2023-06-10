@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CondicionalesIntegrador/CondicionalesIntegrador.iml" filepath="$PROJECT_DIR$/CondicionalesIntegrador/CondicionalesIntegrador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-TodoCode.iml" filepath="$PROJECT_DIR$/.idea/Java-TodoCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MundoPC/MundoPC.iml" filepath="$PROJECT_DIR$/MundoPC/MundoPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaCapas/PruebaCapas.iml" filepath="$PROJECT_DIR$/PruebaCapas/PruebaCapas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vectores/Vectores.iml" filepath="$PROJECT_DIR$/Vectores/Vectores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ventas/Ventas.iml" filepath="$PROJECT_DIR$/Ventas/Ventas.iml" />
+    </modules>
+  </component>
+</project>
