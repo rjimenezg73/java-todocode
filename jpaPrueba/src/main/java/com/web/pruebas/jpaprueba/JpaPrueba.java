@@ -1,9 +1,11 @@
 package com.web.pruebas.jpaprueba;
 
+import com.web.pruebas.jpaprueba.persistencia.ControladoraPersistencia;
+
 
 public class JpaPrueba {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+       ControladoraPersistencia controlPersis = new ControladoraPersistencia(); 
     }
 }
